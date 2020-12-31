@@ -1,0 +1,2 @@
+# HUST_CompEM_Course
+这个仓库中包含王经纬，汪圣涵组的课程设计程序。我们的题目为Implement Perfectly Matched Layers，编程语言为MATLAB，MATLAB2018以上版本皆可满足编译环境需求，无需下载其他扩展包。
